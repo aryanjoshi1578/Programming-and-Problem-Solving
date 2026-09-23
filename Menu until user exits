@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main() {
+  int choice;
+  do {
+    printf("\n1. Say Hello World! \n2. Exit \n");
+    printf("Enter Choice : ");
+    scanf("%d", &choice);
+    if(choice==1)
+      printf("Hello World! \n");
+  } while (choice!=2);
+  return 0;
+}
