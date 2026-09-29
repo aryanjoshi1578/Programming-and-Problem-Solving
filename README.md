@@ -6,3 +6,5 @@
 <img width="1920" height="1080" alt="Menu until user exits" src="https://github.com/user-attachments/assets/b8bf6f23-46fd-45b5-9533-8531ceddd1dd" />
 <img width="1920" height="1080" alt="Find factorial using while" src="https://github.com/user-attachments/assets/41cc5aec-0b37-4bd5-bb57-4cd49fda9228" />
 <img width="1920" height="1080" alt="Addition of 2 matrices" src="https://github.com/user-attachments/assets/52be33a0-75da-43fb-a6cc-e7d557b8581f" />
+<img width="1920" height="1080" alt="Factorial without Recursion" src="https://github.com/user-attachments/assets/b267fbd0-29b2-439f-9714-b6f9afcd82e2" />
+<img width="1920" height="1080" alt="Factorial using Recursion" src="https://github.com/user-attachments/assets/ed1c1054-f2fd-4174-ad63-f41740b01b3b" />
